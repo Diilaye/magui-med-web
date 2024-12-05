@@ -43754,7 +43754,7 @@ $1(a){var s=$.ae()
 return new A.oz(new A.a_S(),new A.Or(),new A.dI(B.aV,s),new A.dI(B.aV,s),new A.dI(B.aV,s),s)},
 $S:230}
 A.KE.prototype={
-F(a){return new A.tq($.aC_(),"Magui Shu",!1,null)}}
+F(a){return new A.tq($.aC_(),"Magui-Med",!1,null)}}
 A.r5.prototype={
 F(a){var s=null
 return A.ni(s,s,A.ay(s,A.cF(A.bC("BIENVENUE SUR MAGUIMED",s,s,s,s,s,s),s,s),B.j,s,s,s,s,s,s,s,s,s,s))}}
@@ -43810,7 +43810,7 @@ F(a){var s,r,q=null,p=A.i8(a,t.JJ),o=A.b9(a,q,t.w).w.a,n=o.a,m=A.hN(new A.aA(10,
 k=A.aQ(A.a([A.bb(A.ay(q,A.aQ(A.a([A.aq(q,q,4),A.cp(B.k6,B.I,q,16),A.aq(q,q,4),A.bb(A.eU(!0,B.aj,!1,q,!0,B.x,q,A.eE(),p.c,q,q,q,q,q,2,A.ev(q,B.aF,q,q,q,q,q,q,!0,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,A.bx(q,q,B.I,q,q,q,q,q,q,q,q,16,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),"Telephone",q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q),B.F,!0,q,!0,q,!1,q,q,q,q,q,q,q,q,1,q,q,!1,"\u2022",q,q,q,q,q,!1,q,!1,q,!0,q,B.S,q,q,B.ae,B.a8,q,q,q,q,q,q,q,B.X,q,B.aC,q,q,q,q),1)],j),B.k,B.n,B.o),B.j,q,q,new A.bh(q,q,k,B.az,q,q,B.w),q,45,B.af,q,q,q,q),1),B.b9],j),B.k,B.n,B.o)
 s=A.eg(B.aS)
 r=n*0.05
-return A.ay(q,A.c2(A.a([k,B.e3,A.aQ(A.a([A.bb(A.ay(q,A.aQ(A.a([A.aq(q,q,4),A.cp(B.hj,B.I,q,16),A.aq(q,q,4),A.bb(A.eU(!0,B.aj,!1,q,!0,B.x,q,A.eE(),p.d,q,q,q,q,q,2,A.ev(q,B.aF,q,q,q,q,q,q,!0,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,A.bx(q,q,B.I,q,q,q,q,q,q,q,q,16,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),"Mot de passe",q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q),B.F,!0,q,!0,q,!1,q,q,q,q,q,q,q,q,1,q,q,!1,"\u2022",q,q,q,q,q,!1,q,!1,q,!0,q,B.S,q,q,B.ae,B.a8,q,q,q,q,q,q,q,B.X,q,B.aC,q,q,q,q),1)],j),B.k,B.n,B.o),B.j,q,q,new A.bh(q,q,s,B.az,q,q,B.w),q,45,B.af,q,q,q,q),1),B.b9],j),B.k,B.n,B.o),B.e3,A.aQ(A.a([A.bb(A.ay(q,A.aQ(A.a([A.bb(A.ay(q,new A.b1(B.bZ,A.hV(B.zJ,new A.a_N(p),A.hW(q,q,B.cf,q,q,q,q,q,q,B.i,q,q,q,q,B.bO,q,q,q,q)),q),B.j,q,q,q,q,65,B.ai,q,q,q,q),1)],j),B.k,B.n,B.o),B.j,q,q,q,q,q,B.af,q,q,q,q),1),B.b9],j),B.k,B.n,B.o),A.aq(q,8,q),A.aQ(A.a([A.aq(q,q,r),A.bC("Mot de passe oublie ?",q,q,q,q,q,q),B.iq,A.mA(q,A.bC("Inscrivez vous",q,q,q,q,q,q),B.F,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.a_O(a),q,q,q),A.aq(q,q,r)],j),B.k,B.n,B.o)],j),B.k,B.aR,B.o),B.j,q,q,new A.bh(l,q,q,m,q,q,B.w),q,o.b*0.4,q,q,q,q,n*0.8)}}
+return A.ay(q,A.c2(A.a([k,B.e3,A.aQ(A.a([A.bb(A.ay(q,A.aQ(A.a([A.aq(q,q,4),A.cp(B.hj,B.I,q,16),A.aq(q,q,4),A.bb(A.eU(!0,B.aj,!1,q,!0,B.x,q,A.eE(),p.d,q,q,q,q,q,2,A.ev(q,B.aF,q,q,q,q,q,q,!0,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,A.bx(q,q,B.I,q,q,q,q,q,q,q,q,16,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),"Mot de passe",q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q),B.F,!0,q,!0,q,!1,q,q,q,q,q,q,q,q,1,q,q,!0,"\u2022",q,q,q,q,q,!1,q,!1,q,!0,q,B.S,q,q,B.ae,B.a8,q,q,q,q,q,q,q,B.X,q,B.aC,q,q,q,q),1)],j),B.k,B.n,B.o),B.j,q,q,new A.bh(q,q,s,B.az,q,q,B.w),q,45,B.af,q,q,q,q),1),B.b9],j),B.k,B.n,B.o),B.e3,A.aQ(A.a([A.bb(A.ay(q,A.aQ(A.a([A.bb(A.ay(q,new A.b1(B.bZ,A.hV(B.zJ,new A.a_N(p),A.hW(q,q,B.cf,q,q,q,q,q,q,B.i,q,q,q,q,B.bO,q,q,q,q)),q),B.j,q,q,q,q,65,B.ai,q,q,q,q),1)],j),B.k,B.n,B.o),B.j,q,q,q,q,q,B.af,q,q,q,q),1),B.b9],j),B.k,B.n,B.o),A.aq(q,8,q),A.aQ(A.a([A.aq(q,q,r),A.bC("Mot de passe oublie ?",q,q,q,q,q,q),B.iq,A.mA(q,A.bC("Inscrivez vous",q,q,q,q,q,q),B.F,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.a_O(a),q,q,q),A.aq(q,q,r)],j),B.k,B.n,B.o)],j),B.k,B.aR,B.o),B.j,q,q,new A.bh(l,q,q,m,q,q,B.w),q,o.b*0.4,q,q,q,q,n*0.8)}}
 A.a_N.prototype={
 $0(){this.a.tj()},
 $S:0}
